@@ -196,14 +196,3 @@ SWITCH(
 
 وفهم أن دور المحلل لا يقتصر على الرسوم البيانية، بل يشمل التحقق من جودة البيانات، واختيار المقاييس الصحيحة، ومعرفة حدود البيانات، وتجنب الاستنتاجات غير المدعومة.
 
-## هيكل المشروع
-
-```
-Kaleem-Sales-Analytics/
-├── README.md
-├── Kaleem-Sales-Analytics.pbix
-├── dashboard.png
-└── data/
-    └── kaleem_sales_data.xlsx
-```
-
